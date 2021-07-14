@@ -485,8 +485,8 @@ mark,
 }
 
 .img-smaller {
+   height: 60%;
   max-width: auto;
-  height: 60%;
 }
 
 .img-thumbnail {
