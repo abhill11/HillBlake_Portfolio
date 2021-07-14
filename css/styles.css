@@ -484,6 +484,11 @@ mark,
   height: auto;
 }
 
+.img-smaller {
+  max-width: auto;
+  height: 60%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
