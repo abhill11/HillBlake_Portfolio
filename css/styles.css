@@ -111,7 +111,6 @@ ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  text-align: center;
 }
 
 ol ol,
@@ -10246,6 +10245,7 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 2rem;
+  text-align: center;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 2rem;
