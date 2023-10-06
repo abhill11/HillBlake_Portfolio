@@ -4013,9 +4013,9 @@ input[type=button].btn-block {
 }
 
 .navbar-collapse {
-  /* flex-basis: 100%;
+  flex-basis: 100%;
   flex-grow: 1;
-  align-items: center; */
+  align-items: center;
 }
 
 .navbar-toggler {
@@ -10195,6 +10195,7 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
+    padding-top: 17rem;
   }
 }
 #portfolio .portfolio-item {
